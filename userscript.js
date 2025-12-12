@@ -1,9 +1,10 @@
 // ==UserScript==
-// @name         PGP Inline Decrypt for duckduckgo.com (file key + session PW + collapsible)
-// @namespace    https://duckduckgo.com/
+// @name         PGP Inline Decrypt for <domain> (file key + session PW + collapsible)
+// @namespace    https://<domain>/
+// @homepageURL  https://github.com/JackMBurch/inline-pgp
 // @version      4.2.0
-// @description  Detect PGP encrypted blocks on duckduckgo.com and decrypt/revert them inline using a file-loaded private key and session-stored passphrase.
-// @match        https://duckduckgo.com/*
+// @description  Detect PGP encrypted blocks on <domain> and decrypt/revert them inline using a file-loaded private key and session-stored passphrase.
+// @match        https://<domain>/*
 // @grant        none
 // @run-at       document-end
 // @require      https://unpkg.com/openpgp@5/dist/openpgp.min.js
