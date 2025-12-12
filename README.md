@@ -4,6 +4,11 @@ This repository contains a userscript that detects inline PGP-encrypted message 
 
 The script is designed to be used with browser userscript managers (such as Tampermonkey or Violentmonkey).
 
+## Screenshots
+
+<img width="535" height="843" alt="image" src="https://github.com/user-attachments/assets/c65ac38e-1198-4502-9cfa-6bcbf223a19f" />
+
+
 ## Files
 
 - **`userscript.js`**: The main userscript. It is parameterized by a placeholder string `<domain>` which must be replaced with the actual target domain before use.
