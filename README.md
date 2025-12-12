@@ -6,8 +6,7 @@ The script is designed to be used with browser userscript managers (such as Tamp
 
 ## Screenshots
 
-<img width="535" height="843" alt="image" src="https://github.com/user-attachments/assets/c65ac38e-1198-4502-9cfa-6bcbf223a19f" />
-
+<img width="535" alt="image" src="https://github.com/user-attachments/assets/c65ac38e-1198-4502-9cfa-6bcbf223a19f" />
 
 ## Files
 
